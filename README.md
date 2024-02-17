@@ -1,6 +1,7 @@
-# evolveai
+# Evolve.ai
 
-A new Flutter project.
+A new Flutter project. Creating a sophisticated voice assistant app that can perform various tasks using voice commands.
+ChatGPT, a state-of-the-art natural language processing model, and Dall-E, an AI image generation tool, to make your voice assistant even more intelligent and responsive. 
 
 ## Getting Started
 
